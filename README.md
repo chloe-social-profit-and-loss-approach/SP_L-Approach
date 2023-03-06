@@ -158,7 +158,9 @@ __However, with the form available and the calculation rules defined, everyone i
 To implement the project the way it was designed to be, you first need to install Google Cloud SDK on your local machine.
 _Follow this link for further information https://cloud.google.com/sdk/docs/install?hl=fr#windows_
 
-Secondly, you need to setup your JotForm account or any other form provider and implements the questions to your survey
+Secondly, you need to setup your JotForm account or any other form provider and implements the questions to your survey.
+
+__The survey questions that you need to implement can be found directly in the [Survey Question](https://www.chloe.com/cloud/chloewp/uploads/2023/02/Survey_English_Finalized.pdf) document.__
 
 ### Build and provide the gcloud environment 
 
