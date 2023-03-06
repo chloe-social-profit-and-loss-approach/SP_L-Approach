@@ -774,7 +774,7 @@ _This list is non-exhaustive and we hope to keep the conversation regarding the 
 [license-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/chloe/
-[product-screenshot]: https://i.postimg.cc/QMmbdRCX/spl-visual.png
+[product-screenshot]: https://i.postimg.cc/3Jg14ybr/spl-visuel-front.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 
