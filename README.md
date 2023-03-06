@@ -246,7 +246,7 @@ def load_data_to_bq(event, context):
 
 _This section covers some example of how you can compute the final KPIs based on the scoring grid definitions in BigQuery SQL._
 
-⚠️ _Please refer to the [Evaluation and Sources Detail](https://example.com) to implement the scoring notation grid associated to the scoring metrics based on your own implementation._
+⚠️ _Please refer to the [Evaluation and Sources Detail](https://www.chloe.com/cloud/chloewp/uploads/2023/02/Chloe-SPL_evaluation-and-sources.xlsx) to implement the scoring notation grid associated to the scoring metrics based on your own implementation._
 
 <br />
 <details><summary><b>Scoring metrics</b></summary>
@@ -591,7 +591,7 @@ FROM <project-id>.<dataset-name>.<table-name>
 </details>
 <br />
 
-__ℹ️ All the calculation methods, scoring grids, scoring metrics and descriptions are well documented in the [Evaluation and Sources Detail](https://example.com)__
+__ℹ️ All the calculation methods, scoring grids, scoring metrics and descriptions are well documented in the [Evaluation and Sources Detail](https://www.chloe.com/cloud/chloewp/uploads/2023/02/Chloe-SPL_evaluation-and-sources.xlsx)__
 
 ### Weighing rule
 
