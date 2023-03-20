@@ -776,7 +776,7 @@ _This list is non-exhaustive and we hope to keep the conversation regarding the 
 [issues-shield]: https://img.shields.io/github/issues/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
 [issues-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/issues
 [license-shield]: https://img.shields.io/github/license/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[license-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/blob/master/LICENSE.txt
+[license-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/chloe/
 [product-screenshot]: https://i.postimg.cc/3Jg14ybr/spl-visuel-front.png
