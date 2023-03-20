@@ -39,14 +39,14 @@
   <p align="center">
     Women Forward. For a Fairer Future.
     <br />
-    <a href="https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://lookerstudio.google.com/u/0/reporting/054e19cc-7ae2-48d4-b1ee-fe6ed73e6a7b/page/p_jdgn2b7auc">View Demo</a>
     ·
-    <a href="https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/issues">Report Bug</a>
+    <a href="https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/issues">Request Feature</a>
+    <a href="https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/issues">Request Feature</a>
   </p>
 </div>
 
@@ -767,16 +767,16 @@ _This list is non-exhaustive and we hope to keep the conversation regarding the 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[contributors-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[forks-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/network/members
-[stars-shield]: https://img.shields.io/github/stars/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[stars-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[issues-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/issues
-[license-shield]: https://img.shields.io/github/license/Chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
-[license-url]: https://github.com/Chloe-social-profit-and-loss-approach/SP_L-Approach/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
+[contributors-url]: https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
+[forks-url]: https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/network/members
+[stars-shield]: https://img.shields.io/github/stars/chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
+[stars-url]: https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/stargazers
+[issues-shield]: https://img.shields.io/github/issues/chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
+[issues-url]: https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/issues
+[license-shield]: https://img.shields.io/github/license/chloe-social-profit-and-loss-approach/SP_L-Approach.svg?style=for-the-badge
+[license-url]: https://github.com/chloe-social-profit-and-loss-approach/SP_L-Approach/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/chloe/
 [product-screenshot]: https://i.postimg.cc/3Jg14ybr/spl-visuel-front.png
